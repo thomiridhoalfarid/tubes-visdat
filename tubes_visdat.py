@@ -115,5 +115,3 @@ update()
 
 curdoc().add_root(layout)
 curdoc().title = "Stocks"
-
-show(layout)
